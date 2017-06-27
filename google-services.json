@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "179067381990",
+    "firebase_url": "https://genium-a8fda.firebaseio.com",
+    "project_id": "genium-a8fda",
+    "storage_bucket": "genium-a8fda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179067381990:android:43b30040605db9ac",
+        "android_client_info": {
+          "package_name": "ru.genium.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179067381990-g7qfs194eu6i1he130esuccnds70mdrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByIohFgR6p9mvxr167eSmUlSZuq9B_oDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
